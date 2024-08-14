@@ -20,22 +20,77 @@ Read on for the description and links for each step of the Roadmap!
 
 ## Roadmap
 
-### Programming
+### 1. Programming
 
-### Data Structures & Algorithms
+- Learn Python
+- Get experience as a software engineer
+- Object-Oriented Programming
+- Interpreted vs Compiled languages
+- C/C++, Memory management
+- Build a website
+- Learn Git
 
-### Operating Systems & Linux
+### 2. Data Structures & Algorithms
 
-### Networking
+- Basic DSA
+- Stacks, Queues
+- Binary Search, Graph/Tree problems, BFS/DFS
+- Big O notation, space-time complexity analysis
+- Do some competitive coding questions
 
-### Databases
+### 3. Operating Systems & Linux
 
-### System Design
+- System Boot process
+- Resource management
+- Multitasking
+- Linux, Bash, Permissions, System Calls
+- Concurrency vs Parallelism
+- High-level & low-level languages
+- Virtualization
 
-### Observability
+### 4. Networking
 
-### Containerisation
+- Network Protocol Stack, Application vs Transport layer
+- Protocols - HTTP, SMPT, TCP, UDP, ICMP
+- DNS, DHCP
+- What happens when you enter `google.com` in your browser?
 
-### Artificial Intelligence
+### 5. Databases
 
-### Soft Skills
+- Transactions, ACID compliance
+- Scaling - Replication, Sharding
+- SQL Querying, Tables, Keys, Normalization
+- Backups & Disaster recovery
+- Data Security
+
+### 6. System Design
+
+- Calculations
+- Microservice architectures
+- Resource optimization
+
+### 7. Observability
+
+- Monitoring, Logging, Tracing
+- 4 Golden Signals - Traffic, Resource Saturation, Latency, Error Rate
+- Grafana-Prometheus
+
+### 8. Containerisation
+
+- Linux Containers - Chroot, CGroups, Namespaces
+- Benefits, Use cases
+- Docker
+- Kubernetes
+
+### 9. Artificial Intelligence
+
+- LLMs
+- Prompt Engineering
+- MLOps
+
+### 10. Soft Skills
+
+- Dealing with Stress
+- Working with People
+- Showing Leadership
+- Learner Mindset
