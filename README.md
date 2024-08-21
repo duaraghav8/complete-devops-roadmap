@@ -8,6 +8,7 @@ Going forward, we will regularly be updating the data here as technology evolves
 In the [assets](./assets) directory, you can find the full Roadmap graphic I used in the video.
 
 Read on for the description and links for each step of the Roadmap!
+
 This plan will help you become a successful DevOps engineer in 1-2 years, so have patience and keep learning!
 
 ## Contributing
