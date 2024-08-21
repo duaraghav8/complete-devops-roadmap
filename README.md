@@ -9,6 +9,12 @@ In the [assets](./assets) directory, you can find the full Roadmap graphic I use
 
 Read on for the description and links for each step of the Roadmap!
 
+## Contributing
+All meaningful contributions are welcome!
+If you feel that something needs to be modified, feel free to open up a Pull Request.
+
+If you have any feedback about the video or suggestions on what else you'd like to watch on my channel, feel free to [leave a comment](https://youtu.be/bm-gIULU59I).
+
 ## References
 
 [Watch the Video on Youtube](https://youtu.be/bm-gIULU59I)
@@ -48,6 +54,8 @@ Read on for the description and links for each step of the Roadmap!
 - High-level & low-level languages
 - Virtualization
 
+[Linux from Scratch](https://www.linuxfromscratch.org/)
+
 ### 4. Networking
 
 - Network Protocol Stack, Application vs Transport layer
@@ -74,6 +82,8 @@ Read on for the description and links for each step of the Roadmap!
 - Monitoring, Logging, Tracing
 - 4 Golden Signals - Traffic, Resource Saturation, Latency, Error Rate
 - Grafana-Prometheus
+
+[Grafana Play](https://play.grafana.org/)
 
 ### 8. Containerisation
 
