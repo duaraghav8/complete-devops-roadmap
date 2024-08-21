@@ -1,13 +1,16 @@
-# Complete DevOps Roadmap
+# Complete DevOps Roadmap :rocket:
 
 Welcome to the Complete DevOps Roadmap!
 This repository contains all the assets accompanying my [Video on How to become a DevOps Engineer](https://youtu.be/bm-gIULU59I).
 
-Going forward, we will regularly be updating the data here as technology evolves with time.
+
+Going forward, I will regularly be updating the data here as technology evolves with time.
+
 
 In the [assets](./assets) directory, you can find the full Roadmap graphic I used in the video.
 
 I've also included the SVG file so you can modify and add your own touch to the Roadmap (be kind enough to add credits for the Author :D )
+
 
 Read on for the description and links for each step of the Roadmap!
 
